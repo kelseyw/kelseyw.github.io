@@ -3,7 +3,7 @@ title: "Apple Pie Project"
 date: 2020-06-17
 tags: [Swift, iOS, App Development]
 header:
-  image: "/images/ApplePieProject/ApplePieProject.jpg"
+  image: "/images/ApplePieProject.jpg"
 excerpt: "Swift, iOS, App Development"
 mathjax: "true"
 ---
