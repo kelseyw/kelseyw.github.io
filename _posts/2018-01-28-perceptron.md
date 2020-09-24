@@ -1,63 +1,11 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "Apple Project"
+date: 2020-06-17
+tags: [Swift, iOS, App Development]
 header:
-  image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+  image: "/images/ApplePieProject/ApplePieProject.jpg"
+excerpt: "Swift, iOS, App Development"
 mathjax: "true"
 ---
 
-# H1 Heading
-
-## H2 Heading
-
-### H3 Heading
-
-Here's some basic text.
-
-And here's some *italics*
-
-Here's some **bold** text.
-
-What about a [link](https://github.com/dataoptimal)?
-
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
-
-Here's a numbered list:
-1. First
-2. Second
-3. Third
-
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
-Here's some inline code `x+y`.
-
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
-
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
+This project was completed for my Start to Code with Swift course. For this project, I used Swift to create an iOS based game for iPad. In the game, players press a button to guess a letter. If the letter is in the word, it populates in one or more of the blank spaces. If the letter is not in the word, an apple disappears from the tree. The goal is to guess the word before all of the apples disappear. The design of this game involved a wide range of basic Swift skills, including the use of stack views, arrays, outlets, actions, structs, and methods.
