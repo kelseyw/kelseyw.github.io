@@ -1,5 +1,5 @@
 ---
-title: "Apple Project"
+title: "Apple Pie Project"
 date: 2020-06-17
 tags: [Swift, iOS, App Development]
 header:
